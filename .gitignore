@@ -1,0 +1,42 @@
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Audio
+*.wav
+*.mp3
+conversations/
+conversations_augmented/
+
+# Logs
+*.log
+
+# Model artifacts
+*.pkl
+*.joblib
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+
+# Other
+*.tmp
+*.bak
+*.swp
