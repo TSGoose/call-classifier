@@ -1,0 +1,10 @@
+openai-whisper
+pydub
+xgboost
+pandas
+scikit-learn
+nltk
+audiomentations
+joblib
+ffmpeg-python
+
